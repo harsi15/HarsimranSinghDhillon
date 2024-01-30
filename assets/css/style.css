@@ -587,7 +587,6 @@ color: hsl(0, 0%, 22%); }
 }
 
 .filter-select {
-  background: var(--eerie-black-2);
   color: hsl(0, 0%, 22%);
   display: flex;
   justify-content: space-between;
@@ -603,7 +602,7 @@ color: hsl(0, 0%, 22%); }
 .filter-select.active .select-icon { transform: rotate(0.5turn); }
 
 .select-list {
-  background: var(--eerie-black-2);
+  background: hsl(0deg 0% 88.63%);
   position: absolute;
   top: calc(100% + 6px);
   width: 100%;
@@ -624,7 +623,6 @@ color: hsl(0, 0%, 22%); }
 }
 
 .select-item button {
-  background: var(--eerie-black-2);
   color: hsl(0, 0%, 22%);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
