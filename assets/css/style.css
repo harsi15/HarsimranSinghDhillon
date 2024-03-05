@@ -845,10 +845,11 @@ color: hsl(0, 0%, 22%); }
 
   .skill-icons{
     padding: 5px 6px;
-    display: inline-block;
+    display:inline-block;
     align-items: center;
 
   }
+
 
   .service-content-box { text-align: left; }
 
