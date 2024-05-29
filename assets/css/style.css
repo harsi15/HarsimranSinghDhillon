@@ -280,7 +280,7 @@ main {
 
 .avatar-box {
   background: hsla(0, 1%, 71%, 0.75);;
-  border-radius: 20px;
+  border-radius: 30px;
 }
 
 .info-content .name {
@@ -790,7 +790,7 @@ color: hsl(0, 0%, 22%); }
 
   .avatar-box { border-radius: 30px; }
 
-  .avatar-box img { width: 120px; }
+  .avatar-box img { width: 120px; border-radius: 30px;}
 
   .info-content .name { margin-bottom: 15px; }
 
@@ -1052,7 +1052,7 @@ color: hsl(0, 0%, 22%); }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 150px; }
+  .avatar-box img { width: 150px; border-radius: 30px;}
 
   .info-content .name {
     white-space: nowrap;
