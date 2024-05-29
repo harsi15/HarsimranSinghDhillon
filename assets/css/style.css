@@ -850,6 +850,17 @@ color: hsl(0, 0%, 22%); }
 
   }
 
+  .Technical{
+    margin-bottom: 8px;
+  }
+
+  .Professional{
+    margin-bottom: 8px;
+  }
+
+  .Project{
+    margin-bottom: -20px;
+  }
 
   .service-content-box { text-align: left; }
 
