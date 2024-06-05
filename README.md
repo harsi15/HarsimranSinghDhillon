@@ -29,9 +29,5 @@ Future enhancements to the project could include:
 <li>Adding interactive elements or animations to make the website more engaging</li>
 </ul>
 
-<h2 align="left">Contribution</h2>
-Contributions to the project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
----
 
 This readme file provides an overview of the portfolio project, including its features, technologies used, usage instructions, future roadmap, and contribution guidelines. If you have any further questions or need additional information, feel free to ask!  
